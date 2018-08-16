@@ -1,17 +1,19 @@
 # MtwPG
 This Script Will Generate reverse_tcp Payload for any Platform like Andriod,Windows, Mac etc.
 
-Payload for
-
-1. Windows
-2. Andriod
-3. Mac
-4. PHP Shell
-5. Linux
-6. Python
-7. Bash
-8, Perl
-
 <img src="logo.jpg">
 
-Only reverse_tcp Payload Added!
+Payload for
+
+<ul>
+    <li>Windows</li>
+    <li>Andriod</li>
+    <li>Mac</li>
+    <li>Linux</li>
+    <li>Python</li>
+    <li>Perl</li>
+    <li>PHP Shell</li>
+    <li>Bash</li>
+</ul>
+
+<h1>Only reverse_tcp Payload Added! </h1>
