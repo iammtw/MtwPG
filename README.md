@@ -3,6 +3,19 @@ This Script Will Generate reverse_tcp Payload for any Platform like Andriod,Wind
 
 <img src="logo.jpg" height="320" Width="880">
 
+Author: [MtwAbbaxi] (http://www.mtwabbaxi.ooo/aboutme.html)
+
+# Disclaimer 
+I am not responsible for any damage done using this tool. This tool should only be used for educational purposes and for penetration testing.
+
+# Compatibility:
+
+    Only With Linux & Mac! However Payload Works over many Platforms.
+
+# Requirements:
+
+   Basic Knowledge of Metasploit
+
 Payload for
 
 <ul>
@@ -17,3 +30,7 @@ Payload for
 </ul>
 
 <h1>Only reverse_tcp Payload Added! </h1>
+
+
+
+
