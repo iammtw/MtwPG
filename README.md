@@ -1,7 +1,7 @@
 # MtwPG
 This Script Will Generate reverse_tcp Payload for any Platform like Andriod,Windows, Mac etc.
 
-<img src="logo.jpg">
+<img src="logo.jpg" height="320" Width="880">
 
 Payload for
 
